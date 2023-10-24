@@ -50,7 +50,8 @@ prompt_tags = {
     "restore_faces": process_boolean_tag,
     "tiling": process_boolean_tag,
     "do_not_save_samples": process_boolean_tag,
-    "do_not_save_grid": process_boolean_tag
+    "do_not_save_grid": process_boolean_tag,
+    "refiner_switch_at": process_float_tag
 }
 
 
